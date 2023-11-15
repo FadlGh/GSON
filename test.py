@@ -1,5 +1,3 @@
-import json
-import matplotlib.pyplot as plt
 from src import main
 
 # Test for visualize_plot
