@@ -5,7 +5,7 @@ DESCRIPTION = 'Graphing JSON files'
 
 # Setting up
 setup(
-    name="GSON",
+    name="GSON-v1",
     version=VERSION,
     author="F4dL (Fadl Ghaddar)",
     author_email="fadl2009gh@gmail.com",
@@ -14,7 +14,7 @@ setup(
     install_requires=['matplotlib'],
     keywords=['python', 'video', 'graph', 'json'],
     classifiers=[
-        "Development Status :: 1 - Publishing",
+        "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
         "Operating System :: Unix",
