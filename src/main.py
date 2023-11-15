@@ -69,4 +69,3 @@ def visualize_pie(src: str, colors: list, title: str = 'Pie', subset_key: str = 
     plt.title(title)
     plt.show() 
 
-visualize_pie('src/bar.json', colors = ['green', 'yellow', 'red'], subset_key="bar")
