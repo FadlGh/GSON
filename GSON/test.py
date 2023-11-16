@@ -1,4 +1,5 @@
 from src import main
+import GSON
 
 # Test for visualize_plot
 def test_visualize_plot():
