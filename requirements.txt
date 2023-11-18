@@ -1,2 +1,0 @@
-# requirements.txt
-git+https://github.com/FadlGh/GSON.git@6090b1414437f50d71dc1934a043958459170b4b
