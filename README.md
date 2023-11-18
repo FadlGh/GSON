@@ -1,6 +1,6 @@
 # GSON
 
-GSON is a simple python project built to Visualize JSON data as plots, pie and bars.
+GSON is a simple python project built to Visualize JSON data as plots, pies and bars.
 
 ## JSON format to use:
 
