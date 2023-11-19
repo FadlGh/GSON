@@ -77,6 +77,20 @@ GSON is a simple python project built to Visualize JSON data as plots, pies and 
 ...
 ```
 -----
+## Call Functions
+
+### For Plot:
+```python
+visualize_plot(src: str, colors: list, linestyle: str = 'solid', linewidth: int = 1, title: str = 'Graph', x_axis: str = 'x-axis', y_axis: str = 'y-axis', subset_key: str = None)
+```
+### For Pie:
+```python
+visualize_pie(src: str, colors: list, title: str = 'Pie', subset_key: str = None)
+```
+### For Bars:
+```python
+visualize_bar(src: str, colors: list, title: str = 'Bars', x_axis: str = 'x-axis', y_axis: str = 'y-axis', subset_key: str = None)
+```
 
 #### **Feel free to contribute to the project**
 
