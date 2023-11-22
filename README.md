@@ -92,5 +92,11 @@ visualize_pie(src: str, colors: list, title: str = 'Pie', subset_key: str = None
 visualize_bar(src: str, colors: list, title: str = 'Bars', x_axis: str = 'x-axis', y_axis: str = 'y-axis', subset_key: str = None)
 ```
 
+## Images:
+![2](https://github.com/FadlGh/GSON/assets/97055147/f1b33b40-0dfe-41b8-880b-81d9a67ea5fc)
+![3](https://github.com/FadlGh/GSON/assets/97055147/5b997909-af1a-4ca4-8f7d-2fb8cdf8c1cc)
+![1](https://github.com/FadlGh/GSON/assets/97055147/afe74193-241b-43b1-af17-6a2f420217d8)
+
+
 #### **Feel free to contribute to the project**
 
