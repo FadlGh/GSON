@@ -1,5 +1,5 @@
 import unittest
-from src import main
+from GSON import main
 
 class TestMain(unittest.TestCase):
 
